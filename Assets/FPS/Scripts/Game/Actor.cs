@@ -26,6 +26,11 @@ namespace Unity.FPS.Game
             }
         }
 
+        private void Update()
+        {
+            
+        }
+
         void OnDestroy()
         {
             // Unregister as an actor
